@@ -1,0 +1,28 @@
+﻿using System;
+using CarDealer.Data;
+
+namespace CarDealer
+{
+    public class StartUp
+    {
+        public const string ResultDirectoryPath = "../../../Datasets/Results";
+
+        public static void Main(string[] args)
+        {
+
+            //just in the begining to create DB:
+            ResetDataBase(context);
+
+
+        }
+
+        public static void ResetDataBase(CarDealerContext db)
+        {
+            db.Database.EnsureDeleted();
+            Console.WriteLine("DB deleted");
+            db.Database.EnsureCreated();
+            Console.WriteLine("DB created");
+
+        }
+    }
+}

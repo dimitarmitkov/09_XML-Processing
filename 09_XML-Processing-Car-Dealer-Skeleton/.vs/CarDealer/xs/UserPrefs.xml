@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C43C4627-A239-410F-84CC-98E46DCF3E53}|Default">
+  <MonoDevelop.Ide.ItemProperties.CarDealer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarDealer/StartUp.cs">
+    <Files>
+      <File FileName="CarDealer/StartUp.cs" Line="43" Column="1" />
+      <File FileName="CarDealer/XMLHelper/XMLConverter.cs" />
+      <File FileName="CarDealer/DTO/ExportDTO/ExportDicountSalesDto.cs" Line="38" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarDealer" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="CarDealer" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

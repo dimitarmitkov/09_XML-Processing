@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{1FE392C9-525F-4C8D-A583-0A0089BFF5E5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductShop/StartUp.cs">
+    <Files>
+      <File FileName="ProductShop/StartUp.cs" Line="36" Column="14" IsPinned="True" />
+      <File FileName="ProductShop/XMLHelper/XMLConverter.cs" />
+      <File FileName="ProductShop/Dtos/Export/ExportUserSoldProductDto.cs" Line="18" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductShop" expanded="True">
+            <Node name="ProductShop" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Dtos" expanded="True">
+                <Node name="Export" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="XMLHelper" expanded="True" />
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ProductShop" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProductShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

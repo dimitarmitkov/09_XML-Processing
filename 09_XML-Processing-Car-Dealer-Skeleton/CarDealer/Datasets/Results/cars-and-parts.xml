@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-16"?>
+<cars>
+  <car make="Opel" model="Astra" travelled-distance="516628215">
+    <parts>
+      <part name="Water tank" price="100.99" />
+      <part name="Front Left Side Inner door handle" price="77.99" />
+      <part name="Speed reducer" price="14.99" />
+    </parts>
+  </car>
+  <car make="BMW" model="F20" travelled-distance="487897422">
+    <parts>
+      <part name="Exposed bumper" price="1400.34" />
+      <part name="Bonnet/hood" price="1001.34" />
+      <part name="Air filter" price="200.99" />
+      <part name="Oil filter" price="200.99" />
+      <part name="Rear Left Side Window motor" price="144.99" />
+      <part name="Steering box" price="103.99" />
+      <part name="Oil pump" price="100.19" />
+      <part name="Gudgeon pin" price="44.99" />
+      <part name="Rocker cover" price="10.99" />
+      <part name="Distributor" price="7.99" />
+      <part name="Crankshaft" price="4.99" />
+    </parts>
+  </car>
+  <car make="BMW" model="E67" travelled-distance="476830509">
+    <parts>
+      <part name="Overflow tank" price="1200.99" />
+      <part name="Bonnet/hood" price="1001.34" />
+      <part name="Oil filter" price="200.99" />
+      <part name="Fuel filter" price="162.99" />
+      <part name="Grille" price="144.99" />
+      <part name="Transmission pan" price="106.99" />
+      <part name="Quarter panel" price="100.99" />
+      <part name="Window seal" price="100.99" />
+      <part name="Water pump" price="44.93" />
+      <part name="Speed reducer" price="14.99" />
+    </parts>
+  </car>
+  <car make="BMW" model="F25" travelled-distance="476132712">
+    <parts>
+      <part name="Exhaust pipe" price="130.99" />
+      <part name="Window motor" price="123.49" />
+      <part name="Roof rack" price="100.99" />
+      <part name="Oil pipe" price="100.29" />
+      <part name="Oil pump" price="100.19" />
+      <part name="Cylinder head" price="6.99" />
+    </parts>
+  </car>
+  <car make="BMW" model="M Roadster E85" travelled-distance="475685374">
+    <parts>
+      <part name="Decklid" price="1060.34" />
+      <part name="Tappet" price="300.29" />
+      <part name="Valve cover" price="130.99" />
+      <part name="Clutch assembly" price="120.99" />
+      <part name="Differential seal" price="109.99" />
+      <part name="Roof rack" price="100.99" />
+      <part name="Piston" price="94.99" />
+      <part name="Rear Right Side Inner door handle" price="79.99" />
+      <part name="Harmonic balancer" price="67.99" />
+      <part name="Water neck o-ring" price="43.99" />
+      <part name="Engine cradle" price="39.99" />
+    </parts>
+  </car>
+  <car make="BMW" model="F04" travelled-distance="443756363">
+    <parts>
+      <part name="Decklid" price="1060.34" />
+      <part name="Fuel pressure regulator" price="100.99" />
+      <part name="Camshaft" price="100.98" />
+    </parts>
+  </car>
+  <car make="BMW" model="M5 F10" travelled-distance="435603343">
+    <parts>
+      <part name="Decklid" price="1060.34" />
+      <part name="Clutch assembly" price="120.99" />
+      <part name="Crank case" price="2.93" />
+    </parts>
+  </car>
+  <car make="Opel" model="Vectra" travelled-distance="433351992">
+    <parts>
+      <part name="Cowl screen" price="1500.34" />
+      <part name="Rear Left Side Door Glass" price="100.66" />
+      <part name="Distributor cap" price="9.99" />
+    </parts>
+  </car>
+  <car make="BMW" model="F04" travelled-distance="418839575">
+    <parts>
+      <part name="Windshield" price="100.99" />
+      <part name="Rear Right Side Window motor" price="22.99" />
+    </parts>
+  </car>
+  <car make="BMW" model="F20" travelled-distance="401291910">
+    <parts>
+      <part name="Welded assembly" price="1020.99" />
+      <part name="Oil gasket" price="130.99" />
+      <part name="Cylinder head" price="6.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Astra" travelled-distance="349837452">
+    <parts>
+      <part name="Rims" price="4020.99" />
+      <part name="Welded assembly" price="1020.99" />
+      <part name="Door seal" price="444.99" />
+      <part name="Air filter" price="200.99" />
+      <part name="Oil filter" price="200.99" />
+      <part name="Window motor" price="123.49" />
+      <part name="Sunroof" price="103.43" />
+      <part name="Fuel tank" price="100.98" />
+      <part name="Water pipe" price="44.94" />
+      <part name="Engine cradle" price="39.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Corsa" travelled-distance="347259126">
+    <parts>
+      <part name="Water neck" price="900.99" />
+      <part name="Radiator pressure cap" price="600.99" />
+      <part name="Exhaust clamp and bracket" price="140.99" />
+      <part name="Valve cover" price="130.99" />
+      <part name="Water pump gasket" price="120.29" />
+      <part name="Front Left Side Door Glass" price="100.92" />
+      <part name="Rear Right Side Door Glass" price="100.90" />
+      <part name="Fascia" price="100.34" />
+      <part name="Rear Right Side Outer door handle" price="80.99" />
+      <part name="Front Left Side Inner door handle" price="77.99" />
+      <part name="Heat shield" price="10.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Insignia" travelled-distance="339785118">
+    <parts>
+      <part name="Differential clutch" price="120.99" />
+      <part name="Fuel rail" price="107.99" />
+      <part name="Sunroof" price="103.43" />
+      <part name="Rear Left Side Door Glass" price="100.66" />
+      <part name="Fascia" price="100.34" />
+      <part name="Oil pump" price="100.19" />
+      <part name="Front Left Side Window motor" price="56.99" />
+      <part name="Water pipe" price="44.94" />
+      <part name="Distributor" price="7.99" />
+      <part name="Cylinder head" price="6.99" />
+      <part name="Crank case" price="2.93" />
+    </parts>
+  </car>
+  <car make="BMW" model="X6 M" travelled-distance="322292247">
+    <parts>
+      <part name="Rear Left Side Outer door handle" price="120.99" />
+      <part name="Water pump gasket" price="120.29" />
+      <part name="Front fascia" price="11.99" />
+    </parts>
+  </car>
+  <car make="BMW" model="F20" travelled-distance="284809463">
+    <parts>
+      <part name="Welded assembly" price="1020.99" />
+      <part name="Turbocharger" price="0.40" />
+    </parts>
+  </car>
+  <car make="Opel" model="Corsa" travelled-distance="282499542">
+    <parts>
+      <part name="Radiator gasket" price="140.99" />
+      <part name="Fuel cooler" price="140.99" />
+      <part name="Oil pipe" price="100.29" />
+    </parts>
+  </car>
+  <car make="Opel" model="Omega" travelled-distance="277250812">
+    <parts>
+      <part name="Exposed bumper" price="1400.34" />
+      <part name="Fuel cooler" price="140.99" />
+      <part name="Oil pan" price="140.99" />
+      <part name="Choke cable" price="130.99" />
+      <part name="Front Left Side Door Glass" price="100.92" />
+      <part name="Water pipe" price="44.94" />
+      <part name="Rear Right Side Window motor" price="22.99" />
+      <part name="Rocker cover" price="10.99" />
+      <part name="Distributor" price="7.99" />
+      <part name="Drive belt" price="3.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Corsa" travelled-distance="267253567">
+    <parts>
+      <part name="Overflow tank" price="1200.99" />
+      <part name="Valve housing" price="400.99" />
+      <part name="Fuel cooler" price="140.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Omega" travelled-distance="254808828">
+    <parts>
+      <part name="Water pump pulley" price="150.99" />
+      <part name="Choke cable" price="130.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Corsa" travelled-distance="241891505">
+    <parts>
+      <part name="Differential clutch" price="120.99" />
+      <part name="Windshield" price="100.99" />
+      <part name="Engine valve" price="49.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Vectra" travelled-distance="238042093">
+    <parts>
+      <part name="Bonnet/hood" price="1001.34" />
+      <part name="Clutch assembly" price="120.99" />
+      <part name="Front Right Side Inner door handle" price="100.99" />
+      <part name="Heater" price="82.99" />
+      <part name="Front Right Side Window motor" price="44.99" />
+      <part name="Crank pulley" price="2.80" />
+    </parts>
+  </car>
+  <car make="BMW" model="X6 M" travelled-distance="227443571">
+    <parts>
+      <part name="Thermostat" price="1050.99" />
+      <part name="Valve stem seal" price="120.99" />
+      <part name="Water pump gasket" price="120.29" />
+      <part name="Quarter panel" price="100.99" />
+      <part name="Front Right Side Door Glass" price="100.91" />
+      <part name="Rear Right Side Door Glass" price="100.90" />
+      <part name="Heater" price="82.99" />
+      <part name="Back Door Outer Door Handle" price="43.99" />
+      <part name="Distributor cap" price="9.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Insignia" travelled-distance="225253817">
+    <parts>
+      <part name="Water neck" price="900.99" />
+      <part name="Fuel cooler" price="140.99" />
+      <part name="Window motor" price="123.49" />
+      <part name="Oil pump" price="100.19" />
+      <part name="Rear Left Side Inner door handle" price="93.99" />
+      <part name="Rear Right Side Inner door handle" price="79.99" />
+      <part name="Front Left Side Window motor" price="56.99" />
+      <part name="Rear Right Side Window motor" price="22.99" />
+      <part name="Crank case" price="2.93" />
+      <part name="Crank pulley" price="2.80" />
+      <part name="Turbocharger" price="0.40" />
+    </parts>
+  </car>
+  <car make="BMW" model="X6 M" travelled-distance="183346013">
+    <parts>
+      <part name="Tappet" price="300.29" />
+      <part name="Steering arm" price="104.99" />
+      <part name="Poppet valve" price="88.99" />
+      <part name="Heater" price="82.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Omega" travelled-distance="176664996">
+    <parts>
+      <part name="Fuel cooler" price="140.99" />
+      <part name="Transmission pan" price="106.99" />
+      <part name="Camshaft" price="100.98" />
+      <part name="Front Right Side Door Glass" price="100.91" />
+      <part name="Rear Right Side Door Glass" price="100.90" />
+      <part name="Fascia" price="100.34" />
+      <part name="Rear Right Side Inner door handle" price="79.99" />
+      <part name="Front Right Side Window motor" price="44.99" />
+      <part name="Fan belt" price="10.99" />
+      <part name="Crank pulley" price="2.80" />
+      <part name="Turbocharger" price="0.40" />
+    </parts>
+  </car>
+  <car make="Opel" model="Insignia" travelled-distance="168539389">
+    <parts>
+      <part name="Door seal" price="444.99" />
+      <part name="Fuel filter" price="162.99" />
+      <part name="Grille" price="144.99" />
+      <part name="Steering arm" price="104.99" />
+      <part name="Engine block" price="40.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Astra" travelled-distance="156191509">
+    <parts>
+      <part name="Air filter" price="200.99" />
+      <part name="Fuel rail" price="107.99" />
+      <part name="Rear Right Quarter Glass" price="100.66" />
+    </parts>
+  </car>
+  <car make="BMW" model="M5 F10" travelled-distance="140799461">
+    <parts>
+      <part name="Water neck" price="900.99" />
+      <part name="Door seal" price="444.99" />
+      <part name="Door control module" price="421.99" />
+      <part name="Air filter" price="200.99" />
+      <part name="Oil filter" price="200.99" />
+      <part name="Coolant hose " price="150.99" />
+      <part name="Fuel cooler" price="140.99" />
+      <part name="Differential seal" price="109.99" />
+      <part name="Front Left Side Inner door handle" price="77.99" />
+      <part name="Water pump" price="44.93" />
+    </parts>
+  </car>
+  <car make="Opel" model="Omega" travelled-distance="111313670">
+    <parts>
+      <part name="Overflow tank" price="1200.99" />
+      <part name="Water neck" price="900.99" />
+      <part name="Tappet" price="300.29" />
+      <part name="Air filter" price="200.99" />
+      <part name="Oil pan" price="140.99" />
+      <part name="Resonator" price="106.99" />
+      <part name="Water tank" price="100.99" />
+      <part name="Rear Right Quarter Glass" price="100.66" />
+      <part name="Poppet valve" price="88.99" />
+      <part name="Distributor" price="7.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Omega" travelled-distance="109910837">
+    <parts>
+      <part name="Radiator gasket" price="140.99" />
+      <part name="Front Right Side Window motor" price="44.99" />
+      <part name="Crank case" price="2.93" />
+    </parts>
+  </car>
+  <car make="BMW" model="M6 E63" travelled-distance="69863204">
+    <parts>
+      <part name="Fuel rail" price="107.99" />
+      <part name="Rear Right Side Door Glass" price="100.90" />
+      <part name="Crank case" price="2.93" />
+    </parts>
+  </car>
+  <car make="BMW" model="M6 E63" travelled-distance="57189891">
+    <parts>
+      <part name="Coolant hose " price="150.99" />
+      <part name="Front Left Side Inner door handle" price="77.99" />
+      <part name="Rear Right Side Window motor" price="22.99" />
+    </parts>
+  </car>
+  <car make="BMW" model="1M Coupe" travelled-distance="39826890">
+    <parts>
+      <part name="Fuel rail" price="107.99" />
+      <part name="Camshaft" price="100.98" />
+      <part name="Front Left Side Door Glass" price="100.92" />
+      <part name="Water neck o-ring" price="43.99" />
+      <part name="Back Door Outer Door Handle" price="43.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Kadet" travelled-distance="31737446">
+    <parts>
+      <part name="Cowl screen" price="1500.34" />
+      <part name="Rear Left Side Window motor" price="144.99" />
+      <part name="Engine cradle" price="39.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Astra" travelled-distance="31468479">
+    <parts>
+      <part name="Coolant hose " price="150.99" />
+      <part name="Exhaust clamp and bracket" price="140.99" />
+      <part name="Crank pulley" price="2.80" />
+    </parts>
+  </car>
+  <car make="BMW" model="E88" travelled-distance="27453411">
+    <parts>
+      <part name="Exposed bumper" price="1400.34" />
+      <part name="Air blower" price="140.99" />
+      <part name="Fascia" price="100.34" />
+    </parts>
+  </car>
+</cars>
